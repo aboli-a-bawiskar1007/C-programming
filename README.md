@@ -1,1 +1,1 @@
-“Initial commit of meal recommender project
+Initial commit of meal recommender project
